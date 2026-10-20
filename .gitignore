@@ -1,0 +1,16 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment variables
+.env
+
+# Expo / Metro
+.expo/
+web-build/
+dist/
+
+# OS and logs
+*.log
+.DS_Store
+Thumbs.db
